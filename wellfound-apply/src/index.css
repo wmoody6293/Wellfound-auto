@@ -1,0 +1,10 @@
+#react-chrome-app {
+  position: fixed;
+  right: 15px;
+  top: 0;
+  width: 100px;
+  height: 50px;
+  background: black;
+  color: white;
+  z-index: 999;
+}
